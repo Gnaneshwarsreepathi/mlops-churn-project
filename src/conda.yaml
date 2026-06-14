@@ -1,0 +1,15 @@
+name: churn-env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pip
+
+  - pip:
+      - azureml-defaults
+      - pandas
+      - numpy
+      - scikit-learn
+      - joblib

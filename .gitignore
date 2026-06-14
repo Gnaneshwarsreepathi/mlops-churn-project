@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.amltmp
+*.pkl
+.vscode/
+.env
+.ipynb_aml_checkpoints/
