@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Overview
 
 Dataset
@@ -22,3 +23,7 @@ Project Workflow
 Results
 - Algorithm: Random Forest
 - Accuracy: 77.78%
+=======
+# mlops-churn-project
+Customer Churn Prediction using Azure Machine Learning and MLOps
+>>>>>>> 92c7f0c4244bd0fc8ba22e70c44ddc06f1e5ddcd
